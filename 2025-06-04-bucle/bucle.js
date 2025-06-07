@@ -11,12 +11,12 @@
 
 // let input = "";
 // let intentos = 0;
-
 // while (input != 1234) {
 //   input = prompt("Ingresa tu contrasenia");
 //   intentos++;
 // }
 // console.log("intento concedido en el nro de intento  = ", intentos);
+
 
 let input = "";
 let intentos = 3;
