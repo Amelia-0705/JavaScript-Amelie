@@ -9,7 +9,7 @@ let cadena = "";
 for (let i = 0; i < cantLetras; i++) {
   letraActual = fraseUsuario.substring(i, i + 1);
   //console.log("Deletreo la frase: ", letraActual);
-  deletreo[i] = letraActual;
+deletreo[i] = letraActual;
 }
 
 for (let i = cantLetras - 1; i >= 0; i--) {
